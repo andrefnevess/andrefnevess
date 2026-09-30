@@ -13,6 +13,7 @@
   <a href="https://portfolioandreneves.vercel.app"><img src="https://img.shields.io/badge/Portfólio-0B3D2E?style=for-the-badge&logo=vercel&logoColor=A8E6CF" /></a>
   <a href="https://www.linkedin.com/in/andrefneves/"><img src="https://img.shields.io/badge/LinkedIn-1B7F5A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:andrefneves30@gmail.com"><img src="https://img.shields.io/badge/E--mail-2E8B6A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=andrefnevess&label=VISITAS&color=4cae80&style=for-the-badge" alt="Visitas ao perfil" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D2E,50:4CD39A,100:0B3D2E" />
@@ -145,6 +146,10 @@ const andre = {
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=andrefnevess&locale=pt_BR&hide_border=true&background=0D1117&ring=4CD39A&fire=A8E6CF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4CD39A&sideLabels=A8E6CF&dates=8B949E&stroke=1B7F5A" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/merko/0-profile-details.svg" alt="Gráfico de atividade" />
 </p>
 
 ## 🐍 A cobrinha que come minhas contribuições
