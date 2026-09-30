@@ -148,10 +148,6 @@ const andre = {
   <img height="170" src="https://streak-stats.demolab.com?user=andrefnevess&locale=pt_BR&hide_border=true&background=0D1117&ring=4CD39A&fire=A8E6CF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4CD39A&sideLabels=A8E6CF&dates=8B949E&stroke=1B7F5A" alt="Sequência de contribuições" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrefnevess&bg_color=0D1117&color=A8E6CF&line=4CD39A&point=FFFFFF&area=true&area_color=1B7F5A&hide_border=true&custom_title=Contribuições%20recentes" alt="Gráfico de atividade" />
-</p>
-
 ## 🐍 A cobrinha que come minhas contribuições
 
 <p align="center">
