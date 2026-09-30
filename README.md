@@ -28,10 +28,10 @@ Estudante de **Engenharia de Software (UNDB, 4º período)** em São Luís – M
 
 **🔭 Agora**
 
-- 🛠️ **Estagiário de Suporte de TI** · SISAC Brasil Sistemas
-- 🏢 **Jovem Aprendiz na TI** · Sebrae-MA
-- ☁️ Membro da **ServiceNow Community – MA**
-- 📚 Ex-**monitor de Design de Soluções** · UNDB
+- **Estagiário de Suporte de TI** · SISAC Brasil Sistemas
+- **Jovem Aprendiz na TI** · Sebrae-MA
+- Membro da **ServiceNow Community – MA**
+- **Monitor de Design de Soluções** · UNDB
 
 > *Software engineering student bridging project management, UI/UX and front-end.*
 
@@ -46,7 +46,7 @@ const andre = {
   metodos: ["Scrum", "Kanban", "ITIL 4"],
   stack: ["HTML", "CSS", "JS", "SQL", "Python"],
   idiomas: ["PT", "ES", "EN (evoluindo)"],
-  cor: "#1B7F5A" // 🌿
+  cor: "#1B7F5A" // 
 };
 ```
 
@@ -142,7 +142,7 @@ const andre = {
   <img src="https://img.shields.io/badge/Canva-A8E6CF?style=for-the-badge&logo=canva&logoColor=0B3D2E" />
 </p>
 
-## 📊 Atividade no GitHub
+## Atividade no GitHub
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=andrefnevess&locale=pt_BR&hide_border=true&background=0D1117&ring=4CD39A&fire=A8E6CF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4CD39A&sideLabels=A8E6CF&dates=8B949E&stroke=1B7F5A" alt="Sequência de contribuições" />
@@ -164,7 +164,7 @@ const andre = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D2E,50:4CD39A,100:0B3D2E" />
 
-## 🏅 Certificações recentes
+## Certificações recentes
 
 - 🟢 **Gestão e Governança na Prática: COBIT, ITIL, Scrum e PMBOK** — Ka Solution · 2026
 - 🟢 **Virada ServiceNow Bootcamp** — 4MATT · 2026
@@ -173,7 +173,7 @@ const andre = {
 - 🟢 **SQL: Joins, Views e Transações** — Alura · 2025
 
 <details>
-  <summary><b>🏆 Trajetória & liderança (clique para abrir)</b></summary>
+  <summary><b> Trajetória & liderança (clique para abrir)</b></summary>
   <br>
 
 - **Jovem Tech (Pulse)** — formação intensiva em tecnologia com mentorias e desafios de empresas como Grupo Mateus, Suzano e EMAP
@@ -183,7 +183,7 @@ const andre = {
 - **Olimpíada de Informática** — 3 anos de participação
 </details>
 
-## 🤝 Vamos colaborar?
+## Vamos colaborar?
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=900&color=A8E6CF&center=true&vCenter=true&width=640&lines=Open+source+%E2%80%A2+Hackathons+%E2%80%A2+Impacto+social;PO%2FScrum+Master+%E2%80%A2+UI%2FUX+%E2%80%A2+Dev+Front-end;Tem+uma+ideia%3F+Me+chama!+%F0%9F%8C%BF" alt="Colaboração" />
