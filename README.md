@@ -13,7 +13,7 @@
   <a href="https://portfolioandreneves.vercel.app"><img src="https://img.shields.io/badge/Portfólio-0B3D2E?style=for-the-badge&logo=vercel&logoColor=A8E6CF" /></a>
   <a href="https://www.linkedin.com/in/andrefneves/"><img src="https://img.shields.io/badge/LinkedIn-1B7F5A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:andrefneves30@gmail.com"><img src="https://img.shields.io/badge/E--mail-2E8B6A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=andrefnevess&label=VISITAS&color=4cae80&style=for-the-badge" alt="Visitas ao perfil" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=andrefnevess-profile&label=VISITAS&labelColor=%230b3d2e&countColor=%234cae80&style=for-the-badge" alt="Visitas ao perfil" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B3D2E,50:4CD39A,100:0B3D2E" />
