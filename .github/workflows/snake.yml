@@ -17,9 +17,26 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Gerar SVGs da cobrinha
+        id: snake
+        continue-on-error: true
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#1B7F5A&color_dots=#ebedf0,#c6f0d9,#8fdcb3,#4cae80,#1b7f5a
+            dist/snake-dark.svg?palette=github-dark&color_snake=#A8E6CF&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
+      - name: Aguardar antes de tentar de novo
+        if: steps.snake.outcome == 'failure'
+        run: sleep 60
+
+      - name: Gerar SVGs da cobrinha (nova tentativa)
+        if: steps.snake.outcome == 'failure'
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake-light.svg?color_snake=#1B7F5A&color_dots=#ebedf0,#c6f0d9,#8fdcb3,#4cae80,#1b7f5a
             dist/snake-dark.svg?palette=github-dark&color_snake=#A8E6CF&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
